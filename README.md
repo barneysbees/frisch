@@ -1,2 +1,2 @@
-#Hivemind
-Hivemind is an agent-based model for simulating the development of a honeybee colony.
+#Frisch
+Frisch is an agent-based model for simulating the development of a honeybee colony.
